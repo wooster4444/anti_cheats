@@ -1,0 +1,1 @@
+is an anti-cheat software product developed by JAVA as a component of the minecarft platform, first released with minecrafat 1.16.5. When the software detects a cheat on a player's system, it will ban them in the future, possibly days or weeks after the original detection.
